@@ -1,0 +1,10 @@
+/*
+ *	Plugin Name: Patrick Udemy NY Times Plugin
+ *	Plugin URI: http://www.gecab.nl
+ *	Description: Provides both widgets and shortcodes to help you display NY Times articles on your website.
+ *	Version: 1.0
+ *	Author: Patrick Gerrits
+ *	Author URI: http://www.patrickgerrits.com
+ *	License: GPL2
+ *
+*/
